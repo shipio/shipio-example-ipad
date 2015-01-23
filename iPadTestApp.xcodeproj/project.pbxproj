@@ -161,6 +161,7 @@
 				TargetAttributes = {
 					0C3926201A72D76C00830D2D = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = R4574NFBCX;
 					};
 					0C3926351A72D76C00830D2D = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -407,6 +408,7 @@
 				0C3926421A72D76C00830D2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C3926431A72D76C00830D2D /* Build configuration list for PBXNativeTarget "iPadTestAppTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +417,7 @@
 				0C3926451A72D76C00830D2D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
